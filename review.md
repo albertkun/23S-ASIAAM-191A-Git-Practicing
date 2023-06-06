@@ -32,3 +32,12 @@ Leaflet Hex Timeslider | https://github.com/albertkun/leaflet_hex_timeslider|
    Group Name  |     Tool/Plugin  |         Comments        |**Optional** Implementation example
 ---------------|------------------|-------------------------|-----------------------------------
 *Example group*|*What tool/plugin*|*Our comments about this*|Example                            |
+FOOD INSECURITY AT UCLA|   |   |    |
+UCLA First-Generation College Pilipinx Stories|   |   |    |
+Girls Just Wanna Have Fun|   |   |    |
+Community Narratives: Neighborhood Oil Drilling|   |   |    |
+FQH-Seeing Health Access For Bruins|   |   |    |
+Student Housing 4 All|   |   |    |
+PREP.LA|   |   |    |
+The Oilies|   |   |    |
+UCLA Southeast Asian Experiences	Westwood Reimagined|   |   |    |
