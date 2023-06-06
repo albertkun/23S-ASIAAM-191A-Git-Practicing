@@ -30,15 +30,14 @@ Leaflet Hex Timeslider | https://github.com/albertkun/leaflet_hex_timeslider|
 ## Plugin Review
 
    Group Name  |     Tool/Plugin  |         Comments        |**Optional** Implementation example
----------------|------------------|-------------------------|-----------------------------------
-*Example group*|*What tool/plugin*|*Our comments about this*|Example                            |
-FOOD INSECURITY AT UCLA|   |   |    |
-UCLA First-Generation College Pilipinx Stories|   |   |    |
-Girls Just Wanna Have Fun|   |   |    |
-Community Narratives: Neighborhood Oil Drilling|   |   |    |
-FQH-Seeing Health Access For Bruins|   |   |    |
-Student Housing 4 All|   |   |    |
-PREP.LA|   |   |    |
-The Oilies|   |   |    |
-UCLA Southeast Asian Experiences|   |   |    |
-Westwood Reimagined|   |   |    |
+---------------|------------------|-------------------------|-----------------------------------\
+*Example group*|*What tool/plugin*|*Our comments about this*|Example                            
+FOOD INSECURITY AT UCLA|   |   |    
+UCLA First-Generation College Pilipinx Stories|   |   |    
+Girls Just Wanna Have Fun|   |   |    
+Community Narratives: Neighborhood Oil Drilling|   |   |    
+FQH-Seeing Health Access For Bruins|   |   |    
+Student Housing 4 All|   |   |    
+PREP.LA| Sidebar v2 | We think this plugin would be very useful for longer-form text content that wouldn't fit in a Leaflet pop-up, while also physically tying the content to a location on the map. In the context of our group projects, this could be useful for displaying user testimonies. |    
+The Oilies|   |   |    
+UCLA Southeast Asian Experiences	Westwood Reimagined|   |   |    
