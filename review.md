@@ -39,6 +39,6 @@ Community Narratives: Neighborhood Oil Drilling|   |   |    |
 FQH-Seeing Health Access For Bruins|   |   |    |
 Student Housing 4 All|   |   |    |
 PREP.LA|   |   |    |
-The Oilies|   |   |    |
+The Oilies| Icon Pulse | An eye-catching way to emphasize certain points on a map | This could be implemented to display sources of oil pollution as it illustrates the flow of the oil outwards impact surrounding areas |
 UCLA Southeast Asian Experiences|   |   |    |
 Westwood Reimagined|   |   |    |
