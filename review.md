@@ -31,4 +31,4 @@ Leaflet Hex Timeslider | https://github.com/albertkun/leaflet_hex_timeslider|
 
    Group Name  |     Tool/Plugin  |         Comments        |**Optional** Implementation example
 ---------------|------------------|-------------------------|-----------------------------------
-*Example group*|*What tool/plugin*|*Our comments about this*|Example                            |
+*Oil Drilling*|*leaflet-sidebar-v2*|*We feel like this plugin will help us better separate the map from individual stories. This will provide users of our site with a more organized experience. The interactivity of the sidebar will also encourage greater interaction between users and the community narratives.*|Example                            |
