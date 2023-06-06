@@ -37,7 +37,7 @@ UCLA First-Generation College Pilipinx Stories|   |   |    |
 Girls Just Wanna Have Fun|   |   |    |
 Community Narratives: Neighborhood Oil Drilling|   |   |    |
 FQH-Seeing Health Access For Bruins|   |   |    |
-Student Housing 4 All|   |   |    |
+Student Housing 4 All| Beautify Marker  | These markers can help our data points be more engaging on the map. They can also allow for greater visiblity with squares rather than circles.  |    |
 PREP.LA|   |   |    |
 The Oilies|   |   |    |
 UCLA Southeast Asian Experiences	Westwood Reimagined|   |   |    |
