@@ -31,14 +31,14 @@ Leaflet Hex Timeslider | https://github.com/albertkun/leaflet_hex_timeslider|
 
    Group Name  |     Tool/Plugin  |         Comments        |**Optional** Implementation example
 ---------------|------------------|-------------------------|-----------------------------------
-*Example group*|*What tool/plugin*|*Our comments about this*|Example                            |
-FOOD INSECURITY AT UCLA|   |   |    |
-UCLA First-Generation College Pilipinx Stories|   |   |    |
-Girls Just Wanna Have Fun|   |   |    |
-Community Narratives: Neighborhood Oil Drilling|   |   |    |
-FQH-Seeing Health Access For Bruins|   |   |    |
-Student Housing 4 All|   |   |    |
-PREP.LA|   |   |    |
-The Oilies| Icon Pulse | An eye-catching way to emphasize certain points on a map | This could be implemented to display sources of oil pollution as it illustrates the flow of the oil outwards impact surrounding areas |
-UCLA Southeast Asian Experiences|   |   |    |
-Westwood Reimagined|   |   |    |
+*Example group*|*What tool/plugin*|*Our comments about this*|Example                            
+FOOD INSECURITY AT UCLA|   |   |    
+UCLA First-Generation College Pilipinx Stories|   |   |    
+Girls Just Wanna Have Fun|   |   |    
+Oil Drilling|*leaflet-sidebar-v2*|We feel like this plugin will help us better separate the map from individual stories. This will provide users of our site with a more organized experience. The interactivity of the sidebar will also encourage greater interaction between users and the community narratives.|Example                            |
+FQH-Seeing Health Access For Bruins|   |   |    
+Student Housing 4 All|   |   |    
+PREP.LA| Sidebar v2 | We think this plugin would be very useful for longer-form text content that wouldn't fit in a Leaflet pop-up, while also physically tying the content to a location on the map. In the context of our group projects, this could be useful for displaying user testimonies. |    
+The Oilies| Icon Pulse | An eye-catching way to emphasize certain points on a map | This could be implemented to display sources of oil pollution as it illustrates the flow of the oil outwards impact surrounding areas |   
+UCLA Southeast Asian Experiences| Leaflet Sidebar V2 | I think this plugin is useful to maintain the informational hiearchy of the site becuase it hides relevant information from shrouding the map but ensures it remains accessible with the responsive UI.  | We will use this plugin to create a sidebar that allows users to access information about campus locations and individual narratives from user respondents.   |
+Westwood Reimagined| Leaflet Sidebar V2  | This plugin would be helpful in highlighting one part of the website at a time. For example, either the map or the side bar's info is the main showcase at a time. Users are also able to toggle which they want to look at. | This tool would be helpful in showcasing either the map more of the responses more for our website. It's also helpful to have multiple tabs for different displays in a compact manner.
