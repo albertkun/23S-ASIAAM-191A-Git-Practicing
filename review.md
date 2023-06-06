@@ -32,7 +32,7 @@ Leaflet Hex Timeslider | https://github.com/albertkun/leaflet_hex_timeslider|
    Group Name  |     Tool/Plugin  |         Comments        |**Optional** Implementation example
 ---------------|------------------|-------------------------|-----------------------------------
 *Example group*|*What tool/plugin*|*Our comments about this*|Example                            |
-FOOD INSECURITY AT UCLA|   |   |    |
+FOOD INSECURITY AT UCLA|  Leaflet.Sleep | We like this plugin because we often run into issues with scrolling on web pages and then scrolling getting interrupted by zooming in and out of maps. This seems like a very simple yet powerful fix.   |    |
 UCLA First-Generation College Pilipinx Stories|   |   |    |
 Girls Just Wanna Have Fun|   |   |    |
 Community Narratives: Neighborhood Oil Drilling|   |   |    |
