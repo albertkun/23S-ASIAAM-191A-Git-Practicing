@@ -35,7 +35,7 @@ Leaflet Hex Timeslider | https://github.com/albertkun/leaflet_hex_timeslider|
 FOOD INSECURITY AT UCLA|   |   |    
 UCLA First-Generation College Pilipinx Stories|   |   |    
 Girls Just Wanna Have Fun|   |   |    
-Community Narratives: Neighborhood Oil Drilling|   |   |    
+Oil Drilling|*leaflet-sidebar-v2*|We feel like this plugin will help us better separate the map from individual stories. This will provide users of our site with a more organized experience. The interactivity of the sidebar will also encourage greater interaction between users and the community narratives.|Example                            |
 FQH-Seeing Health Access For Bruins|   |   |    
 Student Housing 4 All|   |   |    
 PREP.LA| Sidebar v2 | We think this plugin would be very useful for longer-form text content that wouldn't fit in a Leaflet pop-up, while also physically tying the content to a location on the map. In the context of our group projects, this could be useful for displaying user testimonies. |    
