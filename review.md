@@ -40,5 +40,5 @@ FQH-Seeing Health Access For Bruins|   |   |    |
 Student Housing 4 All|   |   |    |
 PREP.LA|   |   |    |
 The Oilies|   |   |    |
-UCLA Southeast Asian Experiences|   |   |    |
+UCLA Southeast Asian Experiences| Leaflet Sidebar V2 | I think this plugin is useful to maintain the informational hiearchy of the site becuase it hides relevant information from shrouding the map but ensures it remains accessible with the responsive UI.  | We will use this plugin to create a sidebar that allows users to access information about campus locations and individual narratives from user respondents.   |
 Westwood Reimagined|   |   |    |
