@@ -40,4 +40,5 @@ FQH-Seeing Health Access For Bruins|   |   |    |
 Student Housing 4 All|   |   |    |
 PREP.LA|   |   |    |
 The Oilies|   |   |    |
-UCLA Southeast Asian Experiences	Westwood Reimagined|   |   |    |
+UCLA Southeast Asian Experiences|   |   |    |
+Westwood Reimagined|   |   |    |
