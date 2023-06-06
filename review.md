@@ -30,7 +30,7 @@ Leaflet Hex Timeslider | https://github.com/albertkun/leaflet_hex_timeslider|
 ## Plugin Review
 
    Group Name  |     Tool/Plugin  |         Comments        |**Optional** Implementation example
----------------|------------------|-------------------------|-----------------------------------
+---------------|------------------|-------------------------|-----------------------------------\
 *Example group*|*What tool/plugin*|*Our comments about this*|Example                            
 FOOD INSECURITY AT UCLA|   |   |    
 UCLA First-Generation College Pilipinx Stories|   |   |    
