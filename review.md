@@ -31,6 +31,7 @@ Leaflet Hex Timeslider | https://github.com/albertkun/leaflet_hex_timeslider|
 
    Group Name  |     Tool/Plugin  |         Comments        |**Optional** Implementation example
 ---------------|------------------|-------------------------|-----------------------------------
+<<<<<<< HEAD
 *Example group*|*What tool/plugin*|*Our comments about this*|Example                            
 FOOD INSECURITY AT UCLA|   |   |    
 UCLA First-Generation College Pilipinx Stories|sidebar-v2|This plugin will help better organize our website and map from the user stories. The sidebar will condense information and less content on the screen would emphasize the importance of the map and user stories. Additional information will be found in the sidebar. |
@@ -42,3 +43,6 @@ PREP.LA| Sidebar v2 | We think this plugin would be very useful for longer-form 
 The Oilies| Icon Pulse | An eye-catching way to emphasize certain points on a map | This could be implemented to display sources of oil pollution as it illustrates the flow of the oil outwards impact surrounding areas |   
 UCLA Southeast Asian Experiences| Leaflet Sidebar V2 | I think this plugin is useful to maintain the informational hiearchy of the site becuase it hides relevant information from shrouding the map but ensures it remains accessible with the responsive UI.  | We will use this plugin to create a sidebar that allows users to access information about campus locations and individual narratives from user respondents.   |
 Westwood Reimagined| Leaflet Sidebar V2  | This plugin would be helpful in highlighting one part of the website at a time. For example, either the map or the side bar's info is the main showcase at a time. Users are also able to toggle which they want to look at. | This tool would be helpful in showcasing either the map more of the responses more for our website. It's also helpful to have multiple tabs for different displays in a compact manner.
+=======
+Girls Just Wanna have Fun | https://github.com/masajid390/BeautifyMarker, https://github.com/turbo87/sidebar-v2/ | Might be helpful |   none                     |
+>>>>>>> 23ea574 (spice girls)
