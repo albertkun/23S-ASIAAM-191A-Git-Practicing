@@ -33,7 +33,7 @@ Leaflet Hex Timeslider | https://github.com/albertkun/leaflet_hex_timeslider|
 ---------------|------------------|-------------------------|-----------------------------------
 *Example group*|*What tool/plugin*|*Our comments about this*|Example                            
 FOOD INSECURITY AT UCLA|   |   |    
-UCLA First-Generation College Pilipinx Stories|sidebar-v2|This plugin will help better organize our website and map from the user stories. The sidebar will condense information and less content on the screen would emphasize the importance of the map and user stories. Additional information will be found in the sidebar. 
+UCLA First-Generation College Pilipinx Stories|sidebar-v2|This plugin will help better organize our website and map from the user stories. The sidebar will condense information and less content on the screen would emphasize the importance of the map and user stories. Additional information will be found in the sidebar. |
 Girls Just Wanna Have Fun|   |   |    
 Oil Drilling|*leaflet-sidebar-v2*|We feel like this plugin will help us better separate the map from individual stories. This will provide users of our site with a more organized experience. The interactivity of the sidebar will also encourage greater interaction between users and the community narratives.|Example                            |
 FQH-Seeing Health Access For Bruins|   |   |    
