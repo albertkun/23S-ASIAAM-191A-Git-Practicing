@@ -36,7 +36,7 @@ FOOD INSECURITY AT UCLA|   |   |
 UCLA First-Generation College Pilipinx Stories|   |   |    
 Girls Just Wanna Have Fun|   |   |    
 Oil Drilling|*leaflet-sidebar-v2*|We feel like this plugin will help us better separate the map from individual stories. This will provide users of our site with a more organized experience. The interactivity of the sidebar will also encourage greater interaction between users and the community narratives.|Example                            |
-FQH-Seeing Health Access For Bruins|   |   |    
+FQH-Seeing Health Access For Bruins| sidebar-v2 | We think that this sidebar could be a streamlined and aestetically pleasing way to display our testimonials while still having a full width map. However, one downside is that this format highlights the map more than it does the testimonials which may not serve our user fulfillment goal of highlighting the stories and voices of the community. Therefore we're still not sure whether we want to implement this format. |    |
 Student Housing 4 All|   |   |    
 PREP.LA| Sidebar v2 | We think this plugin would be very useful for longer-form text content that wouldn't fit in a Leaflet pop-up, while also physically tying the content to a location on the map. In the context of our group projects, this could be useful for displaying user testimonies. |    
 The Oilies|   |   |    
